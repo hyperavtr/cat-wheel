@@ -99,9 +99,9 @@ main {
 	animation: wheel 10s infinite linear;
 }
 
-@media screen and (max-width: 336px) {
+@media screen and (max-width: 364px) {
 	#circle {
-		bottom: 45vw;
+		bottom: 43vw;
 	}
 }
 
