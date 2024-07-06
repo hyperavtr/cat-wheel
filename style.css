@@ -101,7 +101,7 @@ main {
 
 @media screen and (max-width: 364px) {
 	#circle {
-		bottom: 43vw;
+		bottom: 41vw;
 	}
 }
 
@@ -158,8 +158,11 @@ main {
 
 @media screen and (max-width: 475px) {
 	#base {
-		bottom: 21%;
 		min-width: 140px;
+	}
+
+	#circle {
+		bottom: 32vw;
 	}
 }
 
